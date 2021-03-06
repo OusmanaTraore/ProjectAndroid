@@ -1,6 +1,6 @@
 [
     {
-        "_id": "603f920b815aa549d47ae72a",
+        
         "name": "Olivier",
         "email": "ol",
         "tel": "0633052389",
@@ -10,7 +10,7 @@
         "status": "EN ATTENTE"
     },
     {
-        "_id": "603f920b815aa549d47ae72c",
+       
         "name": "Bédélo",
         "email": "bedelo@gmail.com",
         "tel": "0633054422",
@@ -19,16 +19,16 @@
         "role": "CLIENT"
     },
     {
-        "_id": "603f920b815aa549d47ae72d",
-        "name": "Bédélo",
-        "email": "bedelo@gmail.com",
+      
+        "name": "Béo",
+        "email": "beo@gmail.com",
         "tel": "0633054422",
-        "password": "olgk2022",
+        "password": "22",
         "status": "VALIDE",
         "role": "CLIENT"
     },
     {
-        "_id": "60401b6fc7aeed31689a1154",
+       
         "name": "Ous",
         "email": "example@gmail.com",
         "tel": "0633054452",
@@ -37,12 +37,12 @@
         "role": "CLIENT"
     },
     {
-        "_id": "60401b7bc7aeed31689a1155",
-        "name": "Ousmana",
+       
+        "name": "Ou",
         "email": "example@gmail.com",
         "tel": "0633054452",
         "matricule": "01542021",
-        "password": "olgk2022",
-        "role": "CLIENT"
+        "password": "22",
+        "role": "ADMIN"
     }
 ]
