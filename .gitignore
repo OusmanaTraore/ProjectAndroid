@@ -6,7 +6,6 @@
 # dependencies
 /node_modules
 package-lock.json
-user.json
 #test
 # IDE - VSCode
 .vscode/*
